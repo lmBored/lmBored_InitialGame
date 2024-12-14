@@ -1,5 +1,8 @@
 # Unity Essentials Game
 
+## TODO
++ Finish bonus scene
+
 ## Overview
 
 Welcome to the Unity Essentials Game! This game is designed to help you learn and practice essential Unity skills through various interactive scenes. Each scene focuses on different aspects of game development, such as navigation, 3D environments, audio, programming, and more.
@@ -16,6 +19,10 @@ Welcome to the Unity Essentials Game! This game is designed to help you learn an
 - **File:** `Assets/_Unity Essentials/Scenes/0_MainMenu_Scene.unity`
 - **Description:** The main menu scene allows you to select and navigate to different scenes in the game.
 
+### Starter Scene - 3D
+- **File:** `Assets/_Unity Essentials/Scenes/-1_Starter_Scene.unity`
+- **Description:** A robot that can run around.
+- 
 ### Playground - Navigation
 - **File:** `Assets/_Unity Essentials/Scenes/1_Playground_Navigation_Scene.unity`
 - **Description:** This scene focuses on navigation and movement mechanics. Learn how to move and control your character in a 3D environment.
