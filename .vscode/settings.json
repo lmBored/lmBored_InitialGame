@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Essentials Project.sln"
+    "dotnet.defaultSolution": "lmBored_InitialGame.sln"
 }
